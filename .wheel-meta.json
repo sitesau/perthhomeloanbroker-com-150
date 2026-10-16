@@ -1,0 +1,19 @@
+{
+  "wheel_id": 376,
+  "structure": "umbrella",
+  "slug": "perthhomeloanbroker-com-150",
+  "project": "mortgage-brokers-perth-4e28f6df43ce8bc35d641d28636b930a0bacbda6",
+  "parent_t1_ref": "perthhomeloanbroker.com-004",
+  "node_role": "buffer",
+  "money_target": "perthhomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers perth",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-brokers-perth-4e28f6df43ce8bc35d641d28636b930a0bacbda6/",
+  "writeback_nonce": "9f46ae1b731400bb",
+  "links": [
+    {
+      "target_url": "https://mortgage-brokers-perth-859b7c.gitlab.io/",
+      "anchor": "mortgage brokers perth",
+      "rel": "follow"
+    }
+  ]
+}
